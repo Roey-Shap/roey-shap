@@ -1,5 +1,10 @@
 ### Heya! Grab a cup of your favorite beverage and have a look around.
 
+## Projects
+FontLerp: Interpolate between any two fonts 
+Itch page (indie games): [https://itch.io/](https://roey-shap.itch.io/)
+Personal website: https://roey-shap.github.io/
+
 <!--
 **Roey-Shap/roey-shap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
