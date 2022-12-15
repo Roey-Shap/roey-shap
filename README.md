@@ -1,4 +1,4 @@
-### Hi there 👋
+### Heya! Grab a cup of your favorite beverage and have a look around.
 
 <!--
 **Roey-Shap/roey-shap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
