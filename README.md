@@ -3,8 +3,8 @@
 ## Projects
 🗚 Interpolate between any two fonts with [FontLerp](https://github.com/Roey-Shap/FontLerp) <br>
 🕹️ Indie games at [my Itch page](https://roey-shap.itch.io/) <br>
-🧑 [Personal website](https://roey-shap.github.io/)
-📼 [ShaderToy](https://www.shadertoy.com/user/roey_shap)
+🧑 [Personal website](https://roey-shap.github.io/) <br>
+📼 [ShaderToy](https://www.shadertoy.com/user/roey_shap) <br>
 
 <!--
 **Roey-Shap/roey-shap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
