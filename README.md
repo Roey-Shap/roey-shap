@@ -5,6 +5,7 @@
 🕹️ Indie games at [my Itch page](https://roey-shap.itch.io/) <br>
 🧑 [Personal website](https://roey-shap.github.io/) <br>
 📼 [ShaderToy](https://www.shadertoy.com/user/roey_shap) <br>
+🎲 [ChickenSnake: Custom Mtg Card creator](https://github.com/Roey-Shap/ChickenSnake) <br>
 
 <!--
 **Roey-Shap/roey-shap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
